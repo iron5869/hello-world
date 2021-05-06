@@ -1,2 +1,3 @@
 # hello-world
-First GitHub
+write a bit about yourself
+change README
